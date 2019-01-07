@@ -25,7 +25,7 @@ running the following line in the shell:
 	Basically, the only reason for the `vimrc` file is to make it easier to upload the `.vim` folder to github and make it easier to edit and find the rc file.
 
 3. To use Vundle, it may be neceesary to install the plugins which are listed in the `vimrc` file. To accomplish this, run the following line in shell, or 
-better yet, just take a look at the [Vundle set-up instructions](https://github.com/VundleVim/Vundle.vim).
+better yet, just take a look at the [Vundle set-up instructions](https://github.com/VundleVim/Vundle.vim#quick-start).
 
 	```
 	$ vim +PluginInstall +qall
