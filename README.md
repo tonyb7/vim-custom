@@ -7,7 +7,7 @@ These files contain my personal Vim customizations. So far I have implemented th
 * [Vundle](https://github.com/VundleVim/Vundle.vim), a Vim package manager
 * [One Dark theme](https://github.com/joshdick/onedark.vim), a theme for Vim based on Atom's One Dark theme
 
-## How to Use
+## Notes
 The following list describes how I have the files configured on my computer, which is set up according to 
 the [set-up tutorial](https://eecs280staff.github.io/p1-stats/setup.html#command-line-tools) of my university's introductory CS course.
 I use [Windows 10 Subsystem for Linux (WSL)](https://eecs280staff.github.io/p1-stats/setup_wsl.html) with an Ubuntu Bash Shell.
