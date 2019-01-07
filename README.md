@@ -17,11 +17,11 @@ I use [Windows 10 Subsystem for Linux (WSL)](https://eecs280staff.github.io/p1-s
 2. The `vimrc` found in this repository is hard-linked to the `.vimrc` file found in my home directory (one directory up). This was accomplished by
 running the following line in the shell:
 
-  > `ln ~/.vimrc ~/.vim/vimrc`  
+  `ln ~/.vimrc ~/.vim/vimrc`  
 
   Of course, this was performed when I had everything in the `.vimrc` and the `vimrc` file was non-existent. You may have to adjust this for your own use.
   Basically, the only reason for the `vimrc` file is to make it easier to upload the `.vim` folder to github and make it easier to edit and find the rc file.
 
 3. To use Vundle, it may be neceesary to install the plugins which are listed in the `vimrc` file. To accomplish this, run the following line in shell:
 
-  > `vim +PluginInstall +qall`
+  `vim +PluginInstall +qall`
