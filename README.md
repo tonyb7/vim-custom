@@ -29,4 +29,6 @@ better yet, just take a look at the [Vundle set-up instructions](https://github.
 
 	```
 	$ vim +PluginInstall +qall
+	$ pwd
+	$hi
 	```	
