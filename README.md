@@ -27,6 +27,6 @@ running the following line in the shell:
 3. To use Vundle, it may be neceesary to install the plugins which are listed in the `vimrc` file. To accomplish this, run the following line in shell, or 
 better yet, just take a look at the [Vundle set-up instructions](https://github.com/VundleVim/Vundle.vim).
 
-  ```
+	```
 	$ vim +PluginInstall +qall
-  ```	
+	```	
