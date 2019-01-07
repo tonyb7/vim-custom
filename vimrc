@@ -27,7 +27,14 @@ if &term =~ '256color'
 endif
 
 syntax on
+let g:onedark_termcolors=16
+let g:onedark_terminal_italics=1
+let g:lightline = {
+  \ 'colorscheme': 'onedark',
+  \ }
+let g:airline_theme='onedark'
 colorscheme onedark
+
 " Use :help 'option' to see the documentation for the given option.
 
 set autoindent
