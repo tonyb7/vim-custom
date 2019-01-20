@@ -114,3 +114,7 @@ endif
 inoremap <C-U> <C-G>u<C-U>
 
 " vim:set ft=vim et sw=2:
+
+set shellslash
+let g:tex_flavor='latex'
+set mouse=a
